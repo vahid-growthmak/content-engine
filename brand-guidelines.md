@@ -69,3 +69,37 @@ The site uses a clean **geometric/grotesque sans-serif** throughout (consistent 
 
 **Note:** These guidelines are reverse-engineered from the rendered homepage. For a production brand book, extract the exact hex tokens, font family names, and weight scale directly from your Webflow Designer style panel so the documented values match the live source of truth precisely.
 
+
+# Growthmak — Brand Guidelines
+
+## Colors
+
+### Primary
+| Name              | Hex       | Usage                                          |
+|-------------------|-----------|------------------------------------------------|
+| Brand Blue        | `#2563EB` | Logo, accent headlines, CTAs, links, key fills |
+| Deep Navy         | `#0F1B2D` | Headlines, primary body text                   |
+| White             | `#FFFFFF` | Backgrounds, reversed logo, card surfaces      |
+
+### Secondary (Growth-Engine accents)
+| Name              | Hex       | Usage                                          |
+|-------------------|-----------|------------------------------------------------|
+| Indigo Violet     | `#7C3AED` | Charts, infographic segments, highlights       |
+| Sky Cyan          | `#38BDF8` | Charts, secondary accents                      |
+| Teal Green        | `#14B8A6` | Conversion/positive stats, accent fills        |
+| Slate Grey        | `#5B6470` | Body copy, captions                            |
+| Light Grey        | `#F3F4F6` | Section backgrounds, dividers                  |
+
+## Fonts
+- **Headings:** Poppins (or Inter) — Bold/Semi-bold (600–700), tight tracking
+- **Body:** Inter — Regular (400), line-height ~1.6
+- **Eyebrow labels:** Inter — Semi-bold (600), UPPERCASE, +1px letter-spacing
+- **Stat callouts:** Extra-bold (800), oversized (e.g., "3.2x", "$12M+")
+- Single sans-serif family across the brand. No serifs or decorative fonts.
+
+## Visual Style — Carousels & Infographics
+Clean, modern, and data-forward: lead with white space, navy text, and bold blue
+accents, using the indigo–cyan–teal palette only for charts and highlights. Anchor
+visuals with oversized proof-stats and the circular "Growth Engine" motif. Keep
+layouts uncluttered with rounded cards, soft shadows, and pill-shaped CTAs.
+
