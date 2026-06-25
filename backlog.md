@@ -4,7 +4,7 @@
 - Funnel: TOFU
 - ICP: Decision-maker
 - Angle: Most founders adopt AI tools because they feel pressure to look innovative — not because they've identified the one broken workflow AI can actually fix. This post breaks down the BCG/MIT/RAND data behind why AI pilots fail and gives founders a 3-question diagnostic to know if their AI investment is real or theatre.
-- Status: UNUSED
+- Status: USED
 
 ---
 
