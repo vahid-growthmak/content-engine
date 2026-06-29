@@ -1,67 +1,67 @@
-## Idea 1 — 95% of AI pilots fail to show P&L return. Here's why yours will too.
-
-- Pillar: AI Enablement for Business
-- Funnel: TOFU
-- ICP: Decision-maker
-- Angle: Most founders adopt AI tools because they feel pressure to look innovative — not because they've identified the one broken workflow AI can actually fix. This post breaks down the BCG/MIT/RAND data behind why AI pilots fail and gives founders a 3-question diagnostic to know if their AI investment is real or theatre.
-- Status: UNUSED
-
----
-
-## Idea 2 — Your B2B pipeline problem isn't marketing. It's math.
+## Idea 1 — You don't have a lead problem. You have a system problem.
 
 - Pillar: B2B Lead Generation
 - Funnel: TOFU
-- ICP: Decision-maker
-- Angle: Founders who chase more leads are solving the wrong equation — when the real problem is that 80% of existing leads are never properly qualified or followed up on. This contrarian post reframes pipeline growth as a conversion rate and lead quality problem, not a volume problem, backed by benchmarks from Growthmak client data.
+- ICP: Decision-maker (Founder/Co-Founder/MD)
+- Angle: Most growth-stuck founders think they need more leads — the real ceiling is a broken or nonexistent lead generation system. This post opens with the contrarian truth, then walks through the three system failures (no tracking, no nurture, no ICP clarity) that make more traffic irrelevant, positioning Growthmak's diagnostic-first approach as the natural fix.
 - Status: UNUSED
 
 ---
 
-## Idea 3 — We built a $100K sales pipeline for a client in 90 days. Here's the exact system.
-
-- Pillar: Results, Proof & SMB Empowerment
-- Funnel: BOFU
-- ICP: Decision-maker
-- Angle: A transparent teardown of the exact steps — ICP sharpening, LinkedIn outreach sequencing, landing page CRO, and lead nurturing — that took a B2B services client from referral-dependency to a predictable pipeline in one quarter. Ends with an offer to audit the reader's current system.
-- Status: UNUSED
-
----
-
-## Idea 4 — You don't need more leads. You need a system that converts the ones you already have.
+## Idea 2 — The founder who got burned twice: first by bad ads, then by the agency running them
 
 - Pillar: Growth Marketing Strategy & Funnels
-- Funnel: MOFU
-- ICP: Decision-maker
-- Angle: The single most expensive mistake growth-stage founders make is spending more on acquisition when their leaky funnel is quietly killing 60–70% of inbound interest. This post maps the five most common conversion drop-off points and shows how fixing just two of them doubled pipeline revenue for a SaaS client.
+- Funnel: TOFU
+- ICP: Decision-maker (Founder/Co-Founder/MD)
+- Angle: LinkedIn research confirms burned-founder skepticism is the single biggest conversion blocker in this niche — founders have tried agencies, lost money, and now distrust the category entirely. This post names the pattern honestly (agency ran the campaign, reported impressions, disappeared), then reframes what a diagnostic-led engagement looks like versus a task-execution one, building trust before pitching anything.
 - Status: UNUSED
 
 ---
 
-## Idea 5 — AI search (AEO) is the next SEO — and SMBs have an unfair head start over enterprise.
+## Idea 3 — Everyone is buying AI tools. Almost nobody is building an AI system.
 
 - Pillar: AI Enablement for Business
 - Funnel: TOFU
-- ICP: Champion
-- Angle: While enterprise brands are bogged down in brand guidelines and legal reviews, nimble SMBs can own AI-generated answer surfaces right now by structuring content around specific questions their ICP is asking AI tools. This post explains the three content moves any SMB marketing lead can make this week to show up in ChatGPT, Perplexity, and Google AI Overviews.
+- ICP: Decision-maker (Founder/Co-Founder/MD)
+- Angle: The highest-engagement pattern in this week's LinkedIn research was a post on systems vs. tools — 37 comments on one post alone. This post takes Growthmak's angle: collecting AI subscriptions without a connected workflow just automates existing chaos faster. The contrarian hook leads into the 5-layer Growth Engine as the framework that makes AI actually compound, not just run in circles.
 - Status: UNUSED
 
 ---
 
-## Idea 6 — The 5 workflows we automated for a B2B SaaS founder that cut CPL by 60%.
+## Idea 4 — Case study: How a B2B SaaS founder went from referral-dependent to 3x inbound pipeline in 90 days
 
-- Pillar: Growth Marketing Strategy & Funnels
-- Funnel: MOFU
-- ICP: Champion
-- Angle: Automation talk is cheap — this post goes granular on five specific workflow automations (lead enrichment, follow-up sequencing, demo scheduling, CRM data hygiene, and weekly reporting) that Growthmak wired up for a client, showing the before/after impact on cost-per-lead and sales team hours saved.
+- Pillar: Results, Proof & SMB Empowerment
+- Funnel: BOFU
+- ICP: Decision-maker (Founder/Co-Founder/MD)
+- Angle: Aakash's data-backed storytelling format applied to an anonymised client who matched the classic Growth-Stuck Founder profile — good product, strong referrals, zero inbound infrastructure. The post walks through the diagnostic finding, the prescribed fix (tracking → LinkedIn outreach → conversion layer), and the 90-day outcome with real numbers, ending with a free diagnostic CTA for founders who recognise the same situation.
 - Status: UNUSED
 
 ---
 
-## Idea 7 — Our Google Ads audit checklist: 12 things we always find broken in founder-led companies.
+## Idea 5 — Your ads are spending. They're probably not converting. Here's the real reason.
 
-- Pillar: Paid Media & Conversion Rate Optimization
+- Pillar: Paid Media & CRO
 - Funnel: MOFU
-- ICP: Practitioner
-- Angle: A practical, save-this-post checklist that reveals the most common Google Ads mistakes Growthmak finds during audits — from misconfigured conversion tracking to bidding on branded terms that just recapture existing demand — giving practitioners immediate wins they can action before booking a full audit call.
+- ICP: Champion (Head of Marketing / Growth Manager)
+- Angle: The Head of Marketing's biggest pain: the CEO wants pipeline numbers she can't produce because tracking is broken upstream of the ads. This post names three root causes that have nothing to do with creative or budget — broken conversion tracking, no landing page CRO layer, and misaligned audience targeting — and positions the growth audit as the way to find which one is killing ROI before spending another dollar.
+- Status: UNUSED
+
+---
+
+## Idea 6 — What an AI SDR actually does (and what founders think it does)
+
+- Pillar: AI Enablement for Business
+- Funnel: MOFU
+- ICP: Decision-maker (Founder/Co-Founder/MD)
+- Angle: Research surfaced real frustration with AI agent chaos — founders deploying sales agents, marketing agents, and support agents with no connected system, then wondering why the pipeline is still empty. This post demystifies the AI SDR specifically: what it handles (qualification, sequencing, follow-up timing), what it cannot replace (ICP definition, offer clarity, strategic framing), and why most founders deploy it backwards — automating outreach before fixing the message.
+- Status: UNUSED
+
+---
+
+## Idea 7 — Why your Shopify store converts at 0.9% when the benchmark is 3%+
+
+- Pillar: Paid Media & CRO
+- Funnel: MOFU
+- ICP: Practitioner (D2C Brand Owner / E-Commerce Founder)
+- Angle: Rising Meta CPAs are the loudest pain for D2C founders, but the real bleed is on the conversion side — traffic is arriving and leaving without buying. This post runs a five-point CRO diagnostic checklist (load speed, above-the-fold clarity, trust signals, CTA friction, mobile UX) in Aakash's blunt educator voice, closing with the reframe: more ad spend on a 0.9% store is a faster drain, not a growth strategy.
 - Status: UNUSED
