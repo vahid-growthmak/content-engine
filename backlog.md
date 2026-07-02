@@ -4,7 +4,7 @@
 - Funnel: TOFU
 - ICP: Decision-maker (Founder/Co-Founder/MD)
 - Angle: Most growth-stuck founders think they need more leads — the real ceiling is a broken or nonexistent lead generation system. This post opens with the contrarian truth, then walks through the three system failures (no tracking, no nurture, no ICP clarity) that make more traffic irrelevant, positioning Growthmak's diagnostic-first approach as the natural fix.
-- Status: UNUSED
+- Status: USED
 
 ---
 
